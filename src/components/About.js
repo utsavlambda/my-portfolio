@@ -32,7 +32,11 @@ const About = () => {
           </div>
         </div>
         <div className="md:w-1/2">
-          
+          <img
+            className="object-cover object-center w-full h-96 md:h-auto rounded-lg"
+            alt="Coding"
+            src="./coding.svg"
+          />
         </div>
       </div>
     </section>
