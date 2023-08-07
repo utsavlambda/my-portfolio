@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center p-5">
         <div>
           <a href="#about" className="text-3xl font-bold text-white hover:text-gold">
-            Utsav Talati
+            ojfwijf
           </a>
         </div>
         <nav className="flex space-x-5 mt-4 md:mt-0">
